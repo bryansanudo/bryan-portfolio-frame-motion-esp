@@ -111,7 +111,7 @@ const Contact = () => {
 
               <div className="flex items-center justify-center">
                 <button className="my-8 bg-gradient-to-r from-[#29A52D] to-[#5C24B3] text-white px-6 py-3  rounded-md tracking-wider cursor-pointer hover:scale-105 duration-200 capitalize">
-                  send message
+                  Enviar Mensaje
                 </button>
               </div>
             </form>
