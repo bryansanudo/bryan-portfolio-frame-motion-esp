@@ -56,7 +56,10 @@ const Contact = () => {
           </motion.div>
 
           <div className="p-8 text-left md:w-[500px] w-[300px]">
-            <form action="" method="POST">
+            <form
+              action="https://getform.io/f/16a9722a-c19f-41b1-97cb-c1e57bf098f5"
+              method="POST"
+            >
               <div className="flex flex-col gap-2 w-full ">
                 <motion.div
                   className="flex flex-col"
